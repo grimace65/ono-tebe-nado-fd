@@ -66,6 +66,7 @@ a {
     position: relative;
     background-image: url(../images/cover.jpg);
     background-size: cover;
+    background-position: center;
     padding-top: 165px;
     padding-left: 50px;
     padding-right: 50px;
